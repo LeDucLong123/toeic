@@ -1,0 +1,2152 @@
+{
+  "testId": "test-1",
+  "title": "ETS 2026 - Test 01 (Part 3 & Part 4)",
+  "totalGroups": 23,
+  "totalQuestions": 69,
+  "groups": [
+    {
+      "groupId": "32-34",
+      "part": 3,
+      "audioUrl": "/audio/test1/E26-T01-32-34.mp3",
+      "transcriptEn": "W: Hey, Oliver. Did you see the focus group results for our new spicy cheddar cheese? Everyone really liked it.\nM: Yes. It should be a great addition to our company's line of cheeses.\nW: Several people mentioned that they'd like to use it in recipes-to add to sauces, for example.\nM: So maybe we should consider selling a shredded version that would melt easily when cooked.\nW: I'm sure we could do that. I'll get in touch with the production manager with that request.",
+      "transcriptVi": "Nữ: Này Oliver. Anh đã thấy kết quả khảo sát nhóm khách hàng mục tiêu cho loại phô mai cheddar cay mới của chúng ta chưa? Mọi người thực sự rất thích nó.\nNam: Vâng. Nó sẽ là một sự bổ sung tuyệt vời cho dòng phô mai của công ty chúng ta.\nNữ: Một vài người đề cập rằng họ muốn sử dụng nó trong các công thức nấu ăn - ví dụ như thêm vào nước sốt.\nNam: Vậy có lẽ chúng ta nên cân nhắc bán phiên bản dạng bào sợi để nó có thể tan chảy dễ dàng khi nấu.\nNữ: Tôi chắc chắn chúng ta có thể làm được. Tôi sẽ liên lạc với quản lý sản xuất về yêu cầu đó.",
+      "questions": [
+        {
+          "id": 32,
+          "question": "What type of food product does the speakers' company sell?",
+          "questionVi": "",
+          "options": [
+            {
+              "key": "A",
+              "text": "Candy",
+              "textVi": ""
+            },
+            {
+              "key": "B",
+              "text": "Cheese",
+              "textVi": ""
+            },
+            {
+              "key": "C",
+              "text": "Bread",
+              "textVi": ""
+            },
+            {
+              "key": "D",
+              "text": "Pasta",
+              "textVi": ""
+            }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": 33,
+          "question": "What does the man suggest?",
+          "questionVi": "Người đàn ông đề xuất điều gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Lowering prices",
+              "textVi": "Giảm giá"
+            },
+            {
+              "key": "B",
+              "text": "Hiring more workers",
+              "textVi": "Thuê thêm nhân công"
+            },
+            {
+              "key": "C",
+              "text": "Publishing a recipe",
+              "textVi": "Công bố một công thức nấu ăn"
+            },
+            {
+              "key": "D",
+              "text": "Offering additional options",
+              "textVi": "Cung cấp thêm các lựa chọn bổ sung"
+            }
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": 34,
+          "question": "What does the woman say she will do?",
+          "questionVi": "Người phụ nữ nói cô ấy sẽ làm gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Send a schedule update",
+              "textVi": "Gửi cập nhật lịch trình"
+            },
+            {
+              "key": "B",
+              "text": "Contact a production manager",
+              "textVi": "Liên lạc với quản lý sản xuất"
+            },
+            {
+              "key": "C",
+              "text": "Visit the company headquarters",
+              "textVi": "Thăm trụ sở chính của công ty"
+            },
+            {
+              "key": "D",
+              "text": "Plan an advertising campaign",
+              "textVi": "Lập kế hoạch cho một chiến dịch quảng cáo"
+            }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "groupId": "35-37",
+      "part": 3,
+      "audioUrl": "/audio/test1/E26-T01-35-37.mp3",
+      "transcriptEn": "M: Hi. I'm calling to book three tickets for this Thursday's tennis match. Are there any seats left?\nW: Just a few! Tickets for Thursday's match have been selling quickly.\nM: I'm not surprised! After all, Ife Rotimi won the regional championship tournament last month. Everyone wants to see her play after her incredible performance.\nW: Well, there's only one group of three seats together. Advance payment is required to hold them.",
+      "transcriptVi": "Nam: Xin chào. Tôi gọi điện để đặt ba vé cho trận đấu quần vợt vào thứ Năm này. Còn chỗ trống nào không?\nNữ: Chỉ còn vài chỗ thôi! Vé cho trận đấu thứ Năm đang bán rất nhanh.\nNam: Tôi không ngạc nhiên đâu! Suy cho cùng, Ife Rotimi đã giành chức vô địch giải đấu khu vực vào tháng trước. Mọi người đều muốn xem cô ấy thi đấu sau màn trình diễn đáng kinh ngạc đó.\nNữ: Chà, chỉ còn duy nhất một cụm ba ghế cạnh nhau. Cần phải thanh toán trước để giữ chỗ.",
+      "questions": [
+        {
+          "id": 35,
+          "question": "Why is the man calling?",
+          "questionVi": "Tại sao người đàn ông gọi điện?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To sign up for lessons",
+              "textVi": "Để đăng ký các bài học"
+            },
+            {
+              "key": "B",
+              "text": "To enter a competition",
+              "textVi": "Để tham gia một cuộc thi"
+            },
+            {
+              "key": "C",
+              "text": "To buy tickets to an event",
+              "textVi": "Để mua vé xem một sự kiện"
+            },
+            {
+              "key": "D",
+              "text": "To ask about branded merchandise",
+              "textVi": "Để hỏi về hàng hóa có thương hiệu"
+            }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 36,
+          "question": "What did Ife Rotimi do last month?",
+          "questionVi": "Ife Rotimi đã làm gì vào tháng trước?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She won a regional tournament.",
+              "textVi": "Cô ấy đã thắng một giải đấu khu vực."
+            },
+            {
+              "key": "B",
+              "text": "She gave a television interview.",
+              "textVi": "Cô ấy đã thực hiện một cuộc phỏng vấn truyền hình."
+            },
+            {
+              "key": "C",
+              "text": "She started an institute.",
+              "textVi": "Cô ấy đã thành lập một học viện."
+            },
+            {
+              "key": "D",
+              "text": "She hired a new coach.",
+              "textVi": "Cô ấy đã thuê một huấn luyện viên mới."
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 37,
+          "question": "What does the woman say is required?",
+          "questionVi": "Người phụ nữ nói điều gì là bắt buộc?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A parking permit",
+              "textVi": "Giấy phép đậu xe"
+            },
+            {
+              "key": "B",
+              "text": "A photo ID",
+              "textVi": "Giấy tờ tùy thân có ảnh"
+            },
+            {
+              "key": "C",
+              "text": "Contact information",
+              "textVi": "Thông tin liên lạc"
+            },
+            {
+              "key": "D",
+              "text": "Advance payment",
+              "textVi": "Thanh toán trước"
+            }
+          ],
+          "correctAnswer": "D"
+        }
+      ]
+    },
+    {
+      "groupId": "38-40",
+      "part": 3,
+      "audioUrl": "/audio/test1/E26-T01-38-40.mp3",
+      "transcriptEn": "W: Thanks for agreeing to help me organize the library's annual fund-raising dinner, Klaus. We hope the event brings in enough money to expand our children's book section.\nM: What task would you like me to start with?\nW: Well, I could use some help sending out the invitations.\nM: OK, I can take care of that. Is there a list of attendees available?\nW: It's in my computer files. I'll e-mail it to you.",
+      "transcriptVi": "Nữ: Cảm ơn anh đã đồng ý giúp tôi tổ chức bữa tiệc tối gây quỹ thường niên của thư viện, Klaus. Chúng tôi hy vọng sự kiện sẽ mang lại đủ tiền để mở rộng phần sách dành cho thiếu nhi.\nNam: Tôi nên bắt đầu với công việc nào đây?\nNữ: Chà, tôi cần sự giúp đỡ trong việc gửi thư mời.\nNam: Được rồi, tôi có thể đảm nhận việc đó. Có sẵn danh sách người tham dự không?\nNữ: Nó nằm trong tệp máy tính của tôi. Tôi sẽ gửi email cho anh.",
+      "questions": [
+        {
+          "id": 38,
+          "question": "What event are the speakers planning?",
+          "questionVi": "",
+          "options": [
+            {
+              "key": "A",
+              "text": "A fund-raising dinner",
+              "textVi": ""
+            },
+            {
+              "key": "B",
+              "text": "An art gallery opening",
+              "textVi": ""
+            },
+            {
+              "key": "C",
+              "text": "An awards ceremony",
+              "textVi": ""
+            },
+            {
+              "key": "D",
+              "text": "A children's book fair",
+              "textVi": ""
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 39,
+          "question": "What task does the woman ask the man to help with?",
+          "questionVi": "Người phụ nữ nhờ người đàn ông giúp đỡ việc gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Arranging a shuttle service",
+              "textVi": "Sắp xếp dịch vụ xe đưa đón"
+            },
+            {
+              "key": "B",
+              "text": "Choosing a catering firm",
+              "textVi": "Chọn một công ty cung cấp tiệc tận nơi"
+            },
+            {
+              "key": "C",
+              "text": "Preparing a speech",
+              "textVi": "Chuẩn bị bài phát biểu"
+            },
+            {
+              "key": "D",
+              "text": "Sending out invitations",
+              "textVi": "Gửi thiệp mời"
+            }
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": 40,
+          "question": "What does the woman say she will do?",
+          "questionVi": "What does the woman say she will do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "E-mail a list",
+              "textVi": "E-mail a list"
+            },
+            {
+              "key": "B",
+              "text": "Speak with a colleague",
+              "textVi": "Speak with a colleague"
+            },
+            {
+              "key": "C",
+              "text": "Provide a password",
+              "textVi": "Provide a password"
+            },
+            {
+              "key": "D",
+              "text": "Post a job opening",
+              "textVi": "Post a job opening"
+            }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "groupId": "41-43",
+      "part": 3,
+      "audioUrl": "/audio/test1/E26-T01-41-43.mp3",
+      "transcriptEn": "W: Hey, Brian and Matteo. I found some great pens to give away at the community festival to promote our business.\nM1: Great. Can we put our cleaning service logo on them?\nW: Yes, for no extra charge. And they're biodegradable. They're made from paper.\nM2: So when we hand them out, we can mention that.\nM1: As well as talk about the organic cleaning supplies our company uses.\nW: OK. I'll go ahead and order several cases.",
+      "transcriptVi": "Nữ: Chào Brian và Matteo. Tôi đã tìm thấy một số chiếc bút rất tuyệt để phát tặng tại lễ hội cộng đồng nhằm quảng bá doanh nghiệp của chúng ta.\nNam 1: Tuyệt quá. Chúng ta có thể in logo dịch vụ vệ sinh của mình lên đó không?\nNữ: Có chứ, không mất thêm phí đâu. Và chúng có thể phân hủy sinh học. Chúng được làm từ giấy.\nNam 2: Vậy khi chúng ta phát bút, chúng ta có thể đề cập đến điều đó.\nNam 1: Cũng như nói về các vật dụng vệ sinh hữu cơ mà công ty chúng ta sử dụng.\nNữ: Được rồi. Tôi sẽ tiến hành đặt hàng vài thùng.",
+      "questions": [
+        {
+          "id": 41,
+          "question": "What event are the speakers preparing for?",
+          "questionVi": "",
+          "options": [
+            {
+              "key": "A",
+              "text": "A new-employee orientation",
+              "textVi": ""
+            },
+            {
+              "key": "B",
+              "text": "A grand opening",
+              "textVi": ""
+            },
+            {
+              "key": "C",
+              "text": "A community festival",
+              "textVi": ""
+            },
+            {
+              "key": "D",
+              "text": "A trade show",
+              "textVi": ""
+            }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 42,
+          "question": "What is mentioned about some pens?",
+          "questionVi": "Điều gì được đề cập về một số chiếc bút?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They are available in multiple colors.",
+              "textVi": "Chúng có nhiều màu sắc khác nhau."
+            },
+            {
+              "key": "B",
+              "text": "They use permanent ink.",
+              "textVi": "Chúng sử dụng mực vĩnh cửu."
+            },
+            {
+              "key": "C",
+              "text": "They are preferred by book authors.",
+              "textVi": "Chúng được các tác giả sách ưa chuộng."
+            },
+            {
+              "key": "D",
+              "text": "They are made from paper.",
+              "textVi": "Chúng được làm từ giấy."
+            }
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": 43,
+          "question": "What does the woman offer to do?",
+          "questionVi": "Người phụ nữ đề nghị làm gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Reserve a booth",
+              "textVi": "Đặt một gian hàng"
+            },
+            {
+              "key": "B",
+              "text": "Place an order",
+              "textVi": "Đặt hàng"
+            },
+            {
+              "key": "C",
+              "text": "Organize a focus group",
+              "textVi": "Tổ chức một nhóm khảo sát tập trung"
+            },
+            {
+              "key": "D",
+              "text": "Revise a budget",
+              "textVi": "Xem xét lại ngân sách 11"
+            }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "groupId": "44-46",
+      "part": 3,
+      "audioUrl": "/audio/test1/E26-T01-44-46.mp3",
+      "transcriptEn": "W: Jamestown Recycling Facility. How can I help you?\nM: Hi. I'm preparing to move soon, and I have some electronics, such as televisions and computers, that I'd like to get rid of before I put my house on the market.\nW: Yes, that's right. We'll take all electronics.\nM: Great. I just have one question. Do you provide a pickup service?\nW: No, unfortunately you'll have to bring everything here yourself. However, on our Web site we list a number of companies that can remove and dispose of the items for you.",
+      "transcriptVi": "Nữ: Cơ sở tái chế Jamestown xin nghe. Tôi có thể giúp gì cho ông?\nNam: Chào cô. Tôi sắp chuyển nhà và tôi có một số thiết bị điện tử như tivi, máy tính muốn bỏ đi trước khi rao bán nhà.\nNữ: Vâng, đúng vậy. Chúng tôi nhận tất cả các thiết bị điện tử.\nNam: Tuyệt. Tôi chỉ có một câu hỏi. Các bạn có cung cấp dịch vụ đến tận nơi lấy hàng không?\nNữ: Không, tiếc là ông sẽ phải tự mang mọi thứ đến đây. Tuy nhiên, trên trang web của chúng tôi có liệt kê một số công ty có thể đến dọn dẹp và xử lý các món đồ đó giúp ông.",
+      "questions": [
+        {
+          "id": 44,
+          "question": "Where does the woman work?",
+          "questionVi": "Người phụ nữ làm việc ở đâu?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At a delivery service",
+              "textVi": "Tại một dịch vụ giao hàng"
+            },
+            {
+              "key": "B",
+              "text": "At an electronics store",
+              "textVi": "Tại một cửa hàng điện tử"
+            },
+            {
+              "key": "C",
+              "text": "At a recycling facility",
+              "textVi": "Tại một cơ sở tái chế"
+            },
+            {
+              "key": "D",
+              "text": "At a real estate agency",
+              "textVi": "Tại một công ty bất động sản"
+            }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 45,
+          "question": "What does the man want to dispose of?",
+          "questionVi": "Người đàn ông muốn vứt bỏ cái gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Yard waste",
+              "textVi": "Rác thải sân vườn"
+            },
+            {
+              "key": "B",
+              "text": "Used furniture",
+              "textVi": "Đồ nội thất cũ"
+            },
+            {
+              "key": "C",
+              "text": "Electronics",
+              "textVi": "Đồ điện tử"
+            },
+            {
+              "key": "D",
+              "text": "Books",
+              "textVi": "Sách"
+            }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 46,
+          "question": "What does the woman say can be found on a Web site?",
+          "questionVi": "Người phụ nữ nói rằng có thể tìm thấy gì trên một trang web?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A list of companies",
+              "textVi": "Danh sách các công ty"
+            },
+            {
+              "key": "B",
+              "text": "Hours of operation",
+              "textVi": "Giờ hoạt động"
+            },
+            {
+              "key": "C",
+              "text": "A permit application",
+              "textVi": "Đơn xin giấy phép"
+            },
+            {
+              "key": "D",
+              "text": "Directions to a site",
+              "textVi": "Hướng dẫn đến một địa điểm 12"
+            }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "groupId": "47-49",
+      "part": 3,
+      "audioUrl": "/audio/test1/E26-T01-47-49.mp3",
+      "transcriptEn": "M: Zaina! What a surprise! I haven't seen you since we took that class for business owners together last year.\nW: Great, thanks. I was just in the neighborhood and thought I'd stop in for a cookie or a piece of cake. You have so many delicious baked goods here.\nM: Thank you! It's been a good year for business. I'm even considering opening a second location.\nW: Really? Well, I noticed that Sunnyvale Restaurant went out of business, and the building's up for lease. It's very close to the local university.",
+      "transcriptVi": "Nam: Zaina! Thật bất ngờ quá! Tôi đã không gặp cô kể từ khi chúng ta cùng học lớp dành cho chủ doanh nghiệp vào năm ngoái.\nNữ: Tôi vẫn khỏe, cảm ơn anh. Tôi vừa có việc ở khu này và nghĩ mình nên ghé vào mua một chiếc bánh quy hoặc một miếng bánh ngọt. Ở đây anh có nhiều đồ nướng ngon quá.\nNam: Cảm ơn cô! Năm nay việc kinh doanh rất thuận lợi. Tôi thậm chí đang cân nhắc mở cơ sở thứ hai.\nNữ: Thật sao? Chà, tôi thấy nhà hàng Sunnyvale đã đóng cửa và tòa nhà đó đang cho thuê. Nó rất gần trường đại học địa phương.",
+      "questions": [
+        {
+          "id": 47,
+          "question": "How do the speakers know each other?",
+          "questionVi": "Làm thế nào các diễn giả biết nhau?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They took a class together.",
+              "textVi": "Họ đã học cùng lớp."
+            },
+            {
+              "key": "B",
+              "text": "They used to work for the same company.",
+              "textVi": "Họ từng làm việc cho cùng một công ty."
+            },
+            {
+              "key": "C",
+              "text": "They grew up in the same neighborhood.",
+              "textVi": "Họ lớn lên trong cùng một khu phố."
+            },
+            {
+              "key": "D",
+              "text": "They met on a train.",
+              "textVi": "Họ gặp nhau trên tàu hỏa."
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 48,
+          "question": "What type of business does the man most likely own?",
+          "questionVi": "Người đàn ông có khả năng sở hữu loại hình kinh doanh nào nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A fitness center",
+              "textVi": "Trung tâm thể dục"
+            },
+            {
+              "key": "B",
+              "text": "A real estate agency",
+              "textVi": "Đại lý bất động sản"
+            },
+            {
+              "key": "C",
+              "text": "A culinary school",
+              "textVi": "Trường dạy nấu ăn"
+            },
+            {
+              "key": "D",
+              "text": "A bakery",
+              "textVi": "Tiệm bánh"
+            }
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": 49,
+          "question": "What advantage does the woman point out about a rental space?",
+          "questionVi": "Người phụ nữ chỉ ra ưu điểm nào về không gian cho thuê?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Its price",
+              "textVi": "Giá cả"
+            },
+            {
+              "key": "B",
+              "text": "Its size",
+              "textVi": "Kích thước"
+            },
+            {
+              "key": "C",
+              "text": "Its location",
+              "textVi": "Vị trí"
+            },
+            {
+              "key": "D",
+              "text": "Its design",
+              "textVi": "Thiết kế 13"
+            }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "groupId": "50-52",
+      "part": 3,
+      "audioUrl": "/audio/test1/E26-T01-50-52.mp3",
+      "transcriptEn": "W: Hi, Koji. I think our new video game is nearly ready to be released. Are you aware of any improvements that need to be made before then?\nM: Actually, I just finished testing the game this morning. I found a problem in the third stage of the game. There were a few times when my character couldn't move.\nW: Oh, that's strange!\nM: I double-checked the problem using a different controller. The same issue came up.\nW: Oh. I think Pauline had a similar problem with a game she tested. Maybe you should ask her about it.",
+      "transcriptVi": "Nữ: Chào Koji. Tôi nghĩ trò chơi điện tử mới của chúng ta gần như đã sẵn sàng để phát hành. Anh có biết có cải tiến nào cần thực hiện trước đó không?\nNam: Thực ra, tôi vừa mới kiểm tra xong trò chơi sáng nay. Tôi đã tìm thấy một vấn đề ở màn thứ ba. Có vài lần nhân vật của tôi không thể di chuyển được.\nNữ: Ồ, lạ thật đấy!\nNam: Tôi đã kiểm tra lại vấn đề bằng cách sử dụng một bộ điều khiển khác. Vấn đề tương tự vẫn xảy ra.\nNữ: Ồ. Tôi nghĩ Pauline cũng gặp vấn đề tương tự với một trò chơi cô ấy đã kiểm tra. Có lẽ anh nên hỏi cô ấy về việc đó.",
+      "questions": [
+        {
+          "id": 50,
+          "question": "Who most likely are the speakers?",
+          "questionVi": "",
+          "options": [
+            {
+              "key": "A",
+              "text": "Film actors",
+              "textVi": ""
+            },
+            {
+              "key": "B",
+              "text": "Museum directors",
+              "textVi": ""
+            },
+            {
+              "key": "C",
+              "text": "Video game developers",
+              "textVi": ""
+            },
+            {
+              "key": "D",
+              "text": "Investigative journalists",
+              "textVi": ""
+            }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 51,
+          "question": "What did the man recently do?",
+          "questionVi": "Người đàn ông đã làm gì gần đây?",
+          "options": [
+            {
+              "key": "A",
+              "text": "He secured some funding.",
+              "textVi": "Ông ấy đã đảm bảo được một số nguồn tài trợ."
+            },
+            {
+              "key": "B",
+              "text": "He tested a product.",
+              "textVi": "Ông ấy đã thử nghiệm một sản phẩm."
+            },
+            {
+              "key": "C",
+              "text": "He read a script.",
+              "textVi": "Ông ấy đã đọc một kịch bản"
+            },
+            {
+              "key": "D",
+              "text": "He conducted an interview.",
+              "textVi": "Ông ấy đã thực hiện một cuộc phỏng vấn."
+            }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": 52,
+          "question": "What does the woman suggest?",
+          "questionVi": "Người phụ nữ gợi ý điều gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Consulting a colleague",
+              "textVi": "Tham khảo ý kiến đồng nghiệp"
+            },
+            {
+              "key": "B",
+              "text": "Planning an event",
+              "textVi": "Lên kế hoạch cho một sự kiện"
+            },
+            {
+              "key": "C",
+              "text": "Negotiating a contract",
+              "textVi": "Thương lượng một hợp đồng"
+            },
+            {
+              "key": "D",
+              "text": "Giving a client an update",
+              "textVi": "Cập nhật thông tin cho khách hàng 14"
+            }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "groupId": "53-55",
+      "part": 3,
+      "audioUrl": "/audio/test1/E26-T01-53-55.mp3",
+      "transcriptEn": "M: You've reached the maintenance office at Hillview Apartment Complex.\nW: Hi. This is Palavi Sen from unit 35B. I'm calling because the new thermostat in my apartment isn't working. It keeps shutting off and turning on randomly, so my apartment is getting cold.\nM: When did this issue start?\nW: A few hours ago. The thermostat was just installed yesterday.\nM: OK. I can come and take a look at it tomorrow morning.\nW: But it's supposed to be below freezing tonight!",
+      "transcriptVi": "Nam: Đây là văn phòng bảo trì tại khu chung cư Hillview.\nNữ: Xin chào. Tôi là Palavi Sen ở căn hộ 35B. Tôi gọi vì bộ điều chỉnh nhiệt mới trong căn hộ của tôi không hoạt động. Nó cứ tự tắt rồi bật ngẫu nhiên, khiến căn hộ của tôi trở nên rất lạnh.\nNam: Vấn đề này bắt đầu từ khi nào?\nNữ: Cách đây vài giờ. Bộ điều chỉnh nhiệt vừa mới được lắp đặt vào ngày hôm qua.\nNam: Được rồi. Tôi có thể ghé qua kiểm tra vào sáng mai.\nNữ: Nhưng dự báo đêm nay nhiệt độ sẽ xuống dưới mức đóng băng đấy!",
+      "questions": [
+        {
+          "id": 53,
+          "question": "Who most likely is the man?",
+          "questionVi": "Người đàn ông có khả năng cao là ai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A delivery driver",
+              "textVi": "Một lái xe giao hàng"
+            },
+            {
+              "key": "B",
+              "text": "A security guard",
+              "textVi": "Một nhân viên bảo vệ"
+            },
+            {
+              "key": "C",
+              "text": "A maintenance worker",
+              "textVi": "Một nhân viên bảo trì"
+            },
+            {
+              "key": "D",
+              "text": "A customer service representative",
+              "textVi": "Một đại diện dịch vụ khách hàng"
+            }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 54,
+          "question": "What problem does the woman describe?",
+          "questionVi": "Người phụ nữ mô tả vấn đề gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A device is malfunctioning.",
+              "textVi": "Một thiết bị đang bị hỏng."
+            },
+            {
+              "key": "B",
+              "text": "A key is missing.",
+              "textVi": "Một chiếc chìa khóa bị mất."
+            },
+            {
+              "key": "C",
+              "text": "A parking area is unavailable.",
+              "textVi": "Khu vực đỗ xe không có sẵn."
+            },
+            {
+              "key": "D",
+              "text": "A package was not received.",
+              "textVi": "Một gói hàng chưa được nhận."
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 55,
+          "question": "What does the woman mean when she says, \"it's supposed to be below freezing tonight\"?",
+          "questionVi": "Người phụ nữ có ý gì khi nói \"trời dự kiến sẽ lạnh dưới mức đóng băng tối nay\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She is surprised by the weather forecast.",
+              "textVi": "Cô ấy ngạc nhiên về dự báo thời tiết."
+            },
+            {
+              "key": "B",
+              "text": "She wants a service to be completed sooner.",
+              "textVi": "Cô ấy muốn một dịch vụ được hoàn thành sớm hơn."
+            },
+            {
+              "key": "C",
+              "text": "She will move some items indoors. 53. C 54. A 55. B 53. Người đàn ông có khả năng cao là ai? (A) Một lái xe giao hàng (B) Một nhân viên bảo vệ (C) Một nhân viên bảo trì",
+              "textVi": "Cô ấy sẽ chuyển một số đồ vật vào trong nhà. 15"
+            },
+            {
+              "key": "D",
+              "text": "Một đại diện dịch vụ khách hàng 54. Người phụ nữ mô tả vấn đề gì? (A) Một thiết bị đang bị hỏng. (B) Một chiếc chìa khóa bị mất. (C) Khu vực đỗ xe không có sẵn. (D) Một gói hàng chưa được nhận. 55. Người phụ nữ có ý gì khi nói \"trời dự kiến sẽ lạnh dưới mức đóng băng tối nay\"? (A) Cô ấy ngạc nhiên về dự báo thời tiết. (B) Cô ấy muốn một dịch vụ được hoàn thành sớm hơn. (C) Cô ấy sẽ chuyển một số đồ vật vào trong nhà. 15 (D) She would prefer to park near her apartment. (D) Cô ấy muốn đỗ xe gần căn hộ của mình hơn",
+              "textVi": "She would prefer to park near her apartment. (D) Cô ấy muốn đỗ xe gần căn hộ của mình hơn"
+            }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "groupId": "56-58",
+      "part": 3,
+      "audioUrl": "/audio/test1/E26-T01-56-58.mp3",
+      "transcriptEn": "W: Good morning! Welcome to Jasper Bank.\nM1: Thanks for meeting with us to discuss a loan for our business.\nW: Why don't you tell me more about your business? I understand it's a repair shop?\nM2: Well, ten years ago, we opened as a snowmobile repair shop, but after a few years, we also started renting out snowmobiles and other sports equipment.\nM1: Yes, and because winter tourism has increased recently, we'd like to expand our space so that we can carry more inventory.",
+      "transcriptVi": "Nữ: Chào buổi sáng! Chào mừng hai ông đến với ngân hàng Jasper.\nNam 1: Cảm ơn cô đã gặp chúng tôi để thảo luận về khoản vay cho doanh nghiệp của chúng tôi.\nNữ: Hai ông có thể cho tôi biết thêm về doanh nghiệp của mình không? Tôi hiểu đó là một cửa hàng sửa chữa?\nNam 2: Chà, mười năm trước chúng tôi mở một cửa hàng sửa chữa xe trượt tuyết, nhưng sau vài năm, chúng tôi cũng bắt đầu cho thuê xe trượt tuyết và các thiết bị thể thao khác.\nNam 1: Vâng, và vì du lịch mùa đông tăng lên gần đây, chúng tôi muốn mở rộng không gian để có thể chứa được nhiều hàng tồn kho hơn.",
+      "questions": [
+        {
+          "id": 56,
+          "question": "Why do the men want to speak to the woman?",
+          "questionVi": "Tại sao những người đàn ông muốn nói chuyện với người phụ nữ?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To review a building design",
+              "textVi": "Để xem xét một thiết kế tòa nhà"
+            },
+            {
+              "key": "B",
+              "text": "To discuss a loan",
+              "textVi": "Để thảo luận về một khoản vay"
+            },
+            {
+              "key": "C",
+              "text": "To develop an advertising plan",
+              "textVi": "Để phát triển một kế hoạch quảng cáo"
+            },
+            {
+              "key": "D",
+              "text": "To purchase some supplies",
+              "textVi": "Để mua một số vật tư"
+            }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": 57,
+          "question": "What type of business do the men own?",
+          "questionVi": "Những người đàn ông sở hữu loại hình kinh doanh nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A sports equipment store",
+              "textVi": "Cửa hàng thiết bị thể thao"
+            },
+            {
+              "key": "B",
+              "text": "A winter apparel store",
+              "textVi": "Cửa hàng quần áo mùa đông"
+            },
+            {
+              "key": "C",
+              "text": "An automobile dealership",
+              "textVi": "Đại lý ô tô"
+            },
+            {
+              "key": "D",
+              "text": "A hotel chain",
+              "textVi": "Chuỗi khách sạn"
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 58,
+          "question": "According to the men, what has changed recently?",
+          "questionVi": "Theo những người đàn ông, điều gì đã thay đổi gần đây?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Roads have become more accessible.",
+              "textVi": "Đường xá đã trở nên dễ tiếp cận hơn."
+            },
+            {
+              "key": "B",
+              "text": "Costs have decreased.",
+              "textVi": "Chi phí đã giảm xuống."
+            },
+            {
+              "key": "C",
+              "text": "Tourism has increased.",
+              "textVi": "Du lịch đã tăng lên. 16"
+            },
+            {
+              "key": "D",
+              "text": "Weather patterns have shifted",
+              "textVi": "Các hình thái thời tiết đã thay đổi."
+            }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "groupId": "59-61",
+      "part": 3,
+      "audioUrl": "/audio/test1/E26-T01-59-61.mp3",
+      "transcriptEn": "M: Many of our factory workers have expressed interest in upgrading their skills. I'd like to implement a peer-training program, where learners shadow more-experienced employees and observe how they do their jobs.\nW: I'm afraid that might become a burden for our long-time employees. They'll have to slow down their work to explain what they're doing.\nM: What if we videotaped experienced employees doing specific tasks? High-quality video can be recorded and edited with a smartphone.\nW: I like that idea. It would allow us to capture our workers' expertise without slowing down the production line.",
+      "transcriptVi": "Nam: Nhiều công nhân nhà máy của chúng ta bày tỏ sự quan tâm đến việc nâng cao kỹ năng. Tôi muốn triển khai chương trình đào tạo chéo, nơi người học sẽ theo sát những nhân viên giàu kinh nghiệm để quan sát cách họ làm việc.\nNữ: Tôi e rằng điều đó có thể trở thành gánh nặng cho những nhân viên lâu năm. Họ sẽ phải làm chậm công việc của mình để giải thích những gì họ đang làm.\nNam: Nếu chúng ta quay video những nhân viên giàu kinh nghiệm thực hiện các nhiệm vụ cụ thể thì sao? Video chất lượng cao có thể được ghi lại và chỉnh sửa bằng điện thoại thông minh.\nNữ: Tôi thích ý tưởng đó. Nó cho phép chúng ta ghi lại chuyên môn của công nhân mà không làm chậm dây chuyền sản xuất.",
+      "questions": [
+        {
+          "id": 59,
+          "question": "What does the man want to do?",
+          "questionVi": "Người đàn ông muốn làm gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Provide training opportunities",
+              "textVi": "Cung cấp các cơ hội đào tạo"
+            },
+            {
+              "key": "B",
+              "text": "Upgrade machinery",
+              "textVi": "Nâng cấp máy móc"
+            },
+            {
+              "key": "C",
+              "text": "Hire additional employees",
+              "textVi": "Thuê thêm nhân viên"
+            },
+            {
+              "key": "D",
+              "text": "Reorganize the factory layout",
+              "textVi": "Tổ chức lại bố cục nhà máy"
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 60,
+          "question": "What is the woman concerned about?",
+          "questionVi": "Người phụ nữ lo lắng về điều gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Increasing expenses",
+              "textVi": "Chi phí gia tăng"
+            },
+            {
+              "key": "B",
+              "text": "Introducing errors",
+              "textVi": "Gây ra lỗi"
+            },
+            {
+              "key": "C",
+              "text": "Reducing productivity",
+              "textVi": "Giảm năng suất"
+            },
+            {
+              "key": "D",
+              "text": "Causing confusion",
+              "textVi": "Gây ra sự bối rối"
+            }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 61,
+          "question": "What does the man mean when he says, \"High-quality video can be recorded and edited with a smartphone\"? 59. A 60. C 61. B 59. Người đàn ông muốn làm gì?",
+          "questionVi": "",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cung cấp các cơ hội đào tạo",
+              "textVi": ""
+            },
+            {
+              "key": "B",
+              "text": "Nâng cấp máy móc",
+              "textVi": ""
+            },
+            {
+              "key": "C",
+              "text": "Thuê thêm nhân viên",
+              "textVi": ""
+            },
+            {
+              "key": "D",
+              "text": "Tổ chức lại bố cục nhà máy 60. Người phụ nữ lo lắng về điều gì? (A) Chi phí gia tăng (B) Gây ra lỗi (C) Giảm năng suất (D) Gây ra sự bối rối 61. Người đàn ông có ý gì khi nói \"Video chất lượng cao có thể được quay và chỉnh sửa bằng điện thoại thông minh\"? 17 (A) A new policy should be established. (B) An idea is easy to implement. (C) Data security is a concern. (D) Some information should be verified. (A) Một chính sách mới nên được thiết lập. (B) Một ý tưởng rất dễ thực hiện. (C) Bảo mật dữ liệu là một mối lo ngại. (D) Một số thông tin cần được xác minh.",
+              "textVi": ""
+            }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "groupId": "62-64",
+      "part": 3,
+      "audioUrl": "/audio/test1/E26-T01-62-64.mp3",
+      "transcriptEn": "W: Hi, Suresh, I'm at the airport waiting for my flight. I want to meet with a potential investor while I'm in Chicago. Her name's Marta Gomez.\nM: OK. Which day would you prefer to meet with her?\nW: How about right after my meeting with the Chicago staff?\nM: OK. By the way, did you see that our company won an award for our contributions to the community? It was just announced this morning.",
+      "transcriptVi": "",
+      "questions": [
+        {
+          "id": 62,
+          "question": "Where is the woman?",
+          "questionVi": "Người phụ nữ đang ở đâu?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At a restaurant",
+              "textVi": "Tại một nhà hàng"
+            },
+            {
+              "key": "B",
+              "text": "At a travel agency",
+              "textVi": "Tại một đại lý du lịch"
+            },
+            {
+              "key": "C",
+              "text": "At an airport",
+              "textVi": "Tại sân bay"
+            },
+            {
+              "key": "D",
+              "text": "At a warehouse",
+              "textVi": "Tại một nhà kho"
+            }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 63,
+          "question": "Look at the graphic. When does the woman prefer to meet with an investor?",
+          "questionVi": "Nhìn vào hình ảnh. Khi nào người phụ nữ muốn gặp nhà đầu tư?",
+          "options": [
+            {
+              "key": "A",
+              "text": "On Monday",
+              "textVi": "Thứ Hai"
+            },
+            {
+              "key": "B",
+              "text": "On Tuesday",
+              "textVi": "Thứ Ba"
+            },
+            {
+              "key": "C",
+              "text": "On Wednesday",
+              "textVi": "Thứ Tư"
+            },
+            {
+              "key": "D",
+              "text": "On Thursday",
+              "textVi": "Thứ Năm"
+            }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 64,
+          "question": "What good news does the man share?",
+          "questionVi": "Người đàn ông chia sẻ tin tốt nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A colleague received a promotion.",
+              "textVi": "Một đồng nghiệp đã được thăng chức."
+            },
+            {
+              "key": "B",
+              "text": "A conference proposal was accepted.",
+              "textVi": "Đề xuất hội nghị đã được chấp nhận."
+            },
+            {
+              "key": "C",
+              "text": "An airline ticket has been upgraded.",
+              "textVi": "Vé máy bay đã được nâng hạng."
+            },
+            {
+              "key": "D",
+              "text": "A company won an award.",
+              "textVi": "Một công ty đã giành được giải thưởng."
+            }
+          ],
+          "correctAnswer": "D"
+        }
+      ],
+      "imageUrl": "/images/test1/group_62-64.png"
+    },
+    {
+      "groupId": "65-67",
+      "part": 3,
+      "audioUrl": "/audio/test1/E26-T01-65-67.mp3",
+      "transcriptEn": "M: Marion, we keep getting calls from people who want to visit the botanical garden but can't find parking information. Isn't it on our Web site?\nW: It is, but you have to click on the \"About Us\" page and scroll to the bottom of that page. Maybe people don't see it.\nM: Oh, I think we should move that information from the \"About Us\" page and make a separate page for directions and parking information.\nW: I'd be happy to make that change. But we're in the middle of updating our software, so it'll have to wait until Monday.",
+      "transcriptVi": "Nam: Marion này, chúng ta liên tục nhận được cuộc gọi từ những người muốn tham quan vườn bách thảo nhưng không tìm thấy thông tin bãi đậu xe. Nó không có trên trang web của chúng ta sao?\nNữ: Có chứ, nhưng anh phải nhấp vào trang \"Về chúng tôi\" và cuộn xuống cuối trang đó. Có lẽ mọi người không thấy nó.\nNam: Ồ, tôi nghĩ chúng ta nên chuyển thông tin đó từ trang \"Về chúng tôi\" và tạo một trang riêng cho chỉ đường và thông tin đậu xe.\nNữ: Tôi rất sẵn lòng thực hiện thay đổi đó. Nhưng chúng ta đang trong quá trình cập nhật phần mềm, vì vậy việc này sẽ phải đợi đến thứ Hai.",
+      "questions": [
+        {
+          "id": 65,
+          "question": "Where do the speakers work?",
+          "questionVi": "",
+          "options": [
+            {
+              "key": "A",
+              "text": "At an amusement park",
+              "textVi": ""
+            },
+            {
+              "key": "B",
+              "text": "At an art museum",
+              "textVi": ""
+            },
+            {
+              "key": "C",
+              "text": "At a concert hall",
+              "textVi": ""
+            },
+            {
+              "key": "D",
+              "text": "At a botanical garden",
+              "textVi": ""
+            }
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": 66,
+          "question": "Look at the graphic. Which page on the Web site does the man want to change?",
+          "questionVi": "Nhìn vào hình ảnh. Trang nào trên trang web mà người đàn ông muốn thay đổi?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Page 1",
+              "textVi": "Trang 1"
+            },
+            {
+              "key": "B",
+              "text": "Page 2",
+              "textVi": "Trang 2"
+            },
+            {
+              "key": "C",
+              "text": "Page 3",
+              "textVi": "Trang 3"
+            },
+            {
+              "key": "D",
+              "text": "Page 4",
+              "textVi": "Trang 4"
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 67,
+          "question": "Why does the woman say she cannot complete a task until Monday?",
+          "questionVi": "Tại sao người phụ nữ nói cô ấy không thể hoàn thành công việc cho đến thứ Hai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She requires approval from a manager.",
+              "textVi": "Cô ấy cần sự chấp thuận từ quản lý."
+            },
+            {
+              "key": "B",
+              "text": "She is attending a workshop.",
+              "textVi": "Cô ấy đang tham dự một buổi hội thảo."
+            },
+            {
+              "key": "C",
+              "text": "Some software is being updated.",
+              "textVi": "Một số phần mềm đang được cập nhật."
+            },
+            {
+              "key": "D",
+              "text": "Some clients will be arriving soon.",
+              "textVi": "Một số khách hàng sẽ sớm đến 20"
+            }
+          ],
+          "correctAnswer": "C"
+        }
+      ],
+      "imageUrl": "/images/test1/group_65-67.png"
+    },
+    {
+      "groupId": "68-70",
+      "part": 3,
+      "audioUrl": "/audio/test1/E26-T01-68-70.mp3",
+      "transcriptEn": "M: Good news! We have finally received the go-ahead for our department's project to install bicycle racks at the train station downtown.\nW: At last! So, now we need to decide where to place the racks. How about by the station entrance?\nM: Hmm. If we asked riders, I bet they'd say that the most convenient spot is as close to the platform as possible.\nW: Let's do that. I'll contact some companies for estimates.",
+      "transcriptVi": "Nam: Tin tốt đây! Cuối cùng chúng ta đã nhận được sự đồng ý cho dự án của bộ phận mình về việc lắp đặt giá để xe đạp tại ga tàu trung tâm thành phố.\nNữ: Cuối cùng cũng được rồi! Vậy bây giờ chúng ta cần quyết định nơi đặt các giá để xe. Ngay cạnh lối vào nhà ga thì sao?\nNam: Hừm. Nếu chúng ta hỏi những người đi xe, tôi cá là họ sẽ nói rằng vị trí thuận tiện nhất là càng gần sân ga càng tốt.\nNữ: Hãy làm như vậy đi. Tôi sẽ liên hệ với một số công ty để lấy báo giá.",
+      "questions": [
+        {
+          "id": 68,
+          "question": "What news does the man share?",
+          "questionVi": "Người đàn ông chia sẻ tin tức gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A station road will be closed for repair.",
+              "textVi": "Một con đường trạm sẽ bị đóng cửa để sửa chữa."
+            },
+            {
+              "key": "B",
+              "text": "A project has been approved.",
+              "textVi": "Một dự án đã được phê duyệt."
+            },
+            {
+              "key": "C",
+              "text": "A parking area has been expanded.",
+              "textVi": "Một khu vực đỗ xe đã được mở rộng."
+            },
+            {
+              "key": "D",
+              "text": "An office will relocate.",
+              "textVi": "Một văn phòng sẽ chuyển địa điểm."
+            }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": 69,
+          "question": "Look at the graphic. Where do the speakers decide to install some bicycle racks?",
+          "questionVi": "",
+          "options": [
+            {
+              "key": "A",
+              "text": "Near the covered parking area",
+              "textVi": ""
+            },
+            {
+              "key": "B",
+              "text": "Near the long-term parking area",
+              "textVi": ""
+            },
+            {
+              "key": "C",
+              "text": "Near the short-term parking area 68. B 69. A 70. C 68. Người đàn ông chia sẻ tin tức gì? (A) Một con đường trạm sẽ bị đóng cửa để sửa chữa. (B) Một dự án đã được phê duyệt. (C) Một khu vực đỗ xe đã được mở rộng.",
+              "textVi": ""
+            },
+            {
+              "key": "D",
+              "text": "Một văn phòng sẽ chuyển địa điểm. 69. Nhìn vào hình ảnh. Các diễn giả quyết định lắp đặt một số giá để xe đạp ở đâu? (A) Gần khu vực đỗ xe có mái che 21",
+              "textVi": ""
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 70,
+          "question": "Why does the woman say she will contact some companies?",
+          "questionVi": "Tại sao người phụ nữ nói cô ấy sẽ liên lạc với một số công ty?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To arrange a loan",
+              "textVi": "Để sắp xếp một khoản vay"
+            },
+            {
+              "key": "B",
+              "text": "To apply for a permit",
+              "textVi": "Để nộp đơn xin giấy phép"
+            },
+            {
+              "key": "C",
+              "text": "To ask for estimates",
+              "textVi": "Để yêu cầu báo giá/ước tính chi phí"
+            },
+            {
+              "key": "D",
+              "text": "To create a proposal",
+              "textVi": "Để tạo một bản đề xuất"
+            }
+          ],
+          "correctAnswer": "C"
+        }
+      ],
+      "imageUrl": "/images/test1/group_68-70.png"
+    },
+    {
+      "groupId": "71-73",
+      "part": 4,
+      "audioUrl": "/audio/test1/E26-T01-71-73.mp3",
+      "transcriptEn": "You've reached Select Repair Service. We specialize in all makes and models of automobiles. Our factory-trained specialists will keep your vehicle running in top condition. As an added benefit, we offer extended warranties on all vehicles we service. Please note that Select Repair Service will be closing on Friday, June 30, so we can complete our quarterly inventory of supplies. Bạn đã gọi đến Dịch vụ Sửa chữa Select. Chúng tôi chuyên về tất cả các hãng và dòng xe ô tô. Các chuyên gia được đào tạo tại nhà máy của chúng tôi sẽ giữ cho xe của bạn hoạt động trong điều kiện tốt nhất. Như một lợi ích bổ sung, chúng tôi cung cấp gói bảo hành mở rộng cho tất cả các xe chúng tôi bảo dưỡng. Xin lưu ý rằng Dịch vụ Sửa chữa Select sẽ đóng cửa vào thứ Sáu, ngày 30 tháng 6, để chúng tôi có thể hoàn thành việc kiểm kê vật tư hàng quý.",
+      "transcriptVi": "",
+      "questions": [
+        {
+          "id": 71,
+          "question": "What type of products does the business repair?",
+          "questionVi": "",
+          "options": [
+            {
+              "key": "A",
+              "text": "Computers",
+              "textVi": ""
+            },
+            {
+              "key": "B",
+              "text": "Vehicles",
+              "textVi": ""
+            },
+            {
+              "key": "C",
+              "text": "Light fixtures",
+              "textVi": ""
+            },
+            {
+              "key": "D",
+              "text": "Kitchen appliances",
+              "textVi": ""
+            }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": 72,
+          "question": "What special benefit does the speaker mention?",
+          "questionVi": "Người nói đề cập đến lợi ích đặc biệt nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Free pickup",
+              "textVi": "Lấy hàng miễn phí"
+            },
+            {
+              "key": "B",
+              "text": "Online scheduling",
+              "textVi": "Lên lịch trực tuyến"
+            },
+            {
+              "key": "C",
+              "text": "Extended warranties",
+              "textVi": "Gia hạn bảo hành"
+            },
+            {
+              "key": "D",
+              "text": "A membership loyalty program",
+              "textVi": "Chương trình khách hàng thân thiết"
+            }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 73,
+          "question": "Why will a business close on Friday?",
+          "questionVi": "Tại sao doanh nghiệp sẽ đóng cửa vào thứ Sáu?",
+          "options": [
+            {
+              "key": "A",
+              "text": "For an inventory count",
+              "textVi": "Để kiểm kê hàng hóa"
+            },
+            {
+              "key": "B",
+              "text": "For employee training",
+              "textVi": "Để đào tạo nhân viên"
+            },
+            {
+              "key": "C",
+              "text": "For a company celebration",
+              "textVi": "Để kỷ niệm công ty"
+            },
+            {
+              "key": "D",
+              "text": "For equipment installation",
+              "textVi": "Để lắp đặt thiết bị"
+            }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "groupId": "74-76",
+      "part": 4,
+      "audioUrl": "/audio/test1/E26-T01-74-76.mp3",
+      "transcriptEn": "Welcome, new employees! My name is Diego, and I facilitate all orientation sessions. Before we start today, you will need to set up your employee account. If you look at the first page of your training binder, you'll see your username and a temporary password. Once that's complete, you'll have access to all your department's files. Please note that you can only access them from your company computer. Chào mừng các nhân viên mới! Tôi tên là Diego, và tôi là người điều phối tất cả các buổi định hướng. Trước khi bắt đầu hôm nay, các bạn sẽ cần thiết lập tài khoản nhân viên của mình. Nếu các bạn nhìn vào trang đầu tiên của bìa hồ sơ đào tạo, các bạn sẽ thấy tên đăng nhập và mật khẩu tạm thời của mình. Sau khi hoàn tất, các bạn sẽ có quyền truy cập vào tất cả các tệp của bộ phận mình. Xin lưu ý rằng các bạn chỉ có thể truy cập chúng từ máy tính của công ty.",
+      "transcriptVi": "",
+      "questions": [
+        {
+          "id": 74,
+          "question": "Who most likely is the speaker?",
+          "questionVi": "Người nói có khả năng cao là ai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A facilities manager",
+              "textVi": "Quản lý cơ sở vật chất"
+            },
+            {
+              "key": "B",
+              "text": "A human resources representative",
+              "textVi": "Đại diện nhân sự"
+            },
+            {
+              "key": "C",
+              "text": "A security officer",
+              "textVi": "Nhân viên an ninh"
+            },
+            {
+              "key": "D",
+              "text": "A corporate executive",
+              "textVi": "Giám đốc điều hành"
+            }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": 75,
+          "question": "According to the speaker, what will the listeners find in a binder?",
+          "questionVi": "Theo người nói, người nghe sẽ tìm thấy gì trong bìa kẹp hồ sơ?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A map of the building",
+              "textVi": "Bản đồ tòa nhà"
+            },
+            {
+              "key": "B",
+              "text": "An employment contract",
+              "textVi": "Hợp đồng lao động"
+            },
+            {
+              "key": "C",
+              "text": "An identification badge",
+              "textVi": "Thẻ nhận dạng"
+            },
+            {
+              "key": "D",
+              "text": "Log-in credentials",
+              "textVi": "Thông tin đăng nhập"
+            }
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": 76,
+          "question": "What does the speaker say about department files?",
+          "questionVi": "Người nói nói gì về các tập tin của bộ phận?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They are only accessible from company computers.",
+              "textVi": "Chỉ có thể truy cập từ máy tính công ty."
+            },
+            {
+              "key": "B",
+              "text": "They must be password protected.",
+              "textVi": "Chúng phải được bảo vệ bằng mật khẩu."
+            },
+            {
+              "key": "C",
+              "text": "They must follow a specific naming convention.",
+              "textVi": "Chúng phải tuân theo một quy ước đặt tên cụ thể."
+            },
+            {
+              "key": "D",
+              "text": "They must be archived annually.",
+              "textVi": "Chúng phải được lưu trữ hàng năm."
+            }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "groupId": "77-79",
+      "part": 4,
+      "audioUrl": "/audio/test1/E26-T01-77-79.mp3",
+      "transcriptEn": "Hello. This is Heather Ross calling from Denville Amusement Park. About a month ago, I ordered one of your new video-game machines, Space Defenders. I'm really happy with my purchase, since the game has been incredibly popular with our park guests! I heard you may be releasing a new game soon. Could you call me back and let me know if that's true? Xin chào. Tôi là Heather Ross gọi từ Công viên Giải trí Denville. Khoảng một tháng trước, tôi đã đặt mua một trong những máy chơi game mới của các bạn, Space Defenders. Tôi thực sự hài lòng với đơn hàng này, vì trò chơi này cực kỳ phổ biến với khách ghé thăm công viên của chúng tôi! Tôi nghe nói các bạn sắp phát hành một trò chơi mới. Bạn có thể gọi lại và cho tôi biết điều đó có đúng không?",
+      "transcriptVi": "",
+      "questions": [
+        {
+          "id": 77,
+          "question": "Where does the speaker work?",
+          "questionVi": "Người nói làm việc ở đâu?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At a laundry facility",
+              "textVi": "Tại một cơ sở giặt ủi"
+            },
+            {
+              "key": "B",
+              "text": "At an amusement park",
+              "textVi": "Tại một công viên giải trí"
+            },
+            {
+              "key": "C",
+              "text": "At a sports stadium",
+              "textVi": "Tại một sân vận động thể thao"
+            },
+            {
+              "key": "D",
+              "text": "At a fitness center",
+              "textVi": "Tại một trung tâm thể hình"
+            }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": 78,
+          "question": "What does the speaker say about an item she ordered a month ago? 77. B 78. D 79. A 77. Người nói làm việc ở đâu?",
+          "questionVi": "",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tại một cơ sở giặt ủi",
+              "textVi": ""
+            },
+            {
+              "key": "B",
+              "text": "Tại một công viên giải trí",
+              "textVi": ""
+            },
+            {
+              "key": "C",
+              "text": "Tại một sân vận động thể thao",
+              "textVi": ""
+            },
+            {
+              "key": "D",
+              "text": "Tại một trung tâm thể hình 78. Người nói nói gì về món đồ cô ấy đã đặt một tháng trước? 24 (A) It arrived later than expected. (B) It was damaged during delivery. (C) She needs help assembling it. (D) She is pleased with it.",
+              "textVi": ""
+            }
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": 79,
+          "question": "A 77. Người nói làm việc ở đâu?",
+          "questionVi": "What does the speaker ask the listener to confirm?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tại một cơ sở giặt ủi",
+              "textVi": "Whether a new product will be available soon"
+            },
+            {
+              "key": "B",
+              "text": "Tại một công viên giải trí",
+              "textVi": "When a replacement part will be shipped"
+            },
+            {
+              "key": "C",
+              "text": "Tại một sân vận động thể thao",
+              "textVi": "How long a warranty lasts"
+            },
+            {
+              "key": "D",
+              "text": "Tại một trung tâm thể hình 78. Người nói nói gì về món đồ cô ấy đã đặt một tháng trước? 24 (A) It arrived later than expected. (B) It was damaged during delivery. (C) She needs help assembling it. (D) She is pleased with it. 79. What does the speaker ask the listener to confirm? (A) Whether a new product will be available soon (B) When a replacement part will be shipped (C) How long a warranty lasts (D) Who to contact about future orders (A) Nó đến muộn hơn dự kiến. (B) Nó bị hỏng trong quá trình vận chuyển. (C) Cô ấy cần giúp đỡ để lắp ráp nó. (D) Cô ấy hài lòng với nó. 79. Người nói yêu cầu người nghe xác nhận điều gì? (A) Liệu sản phẩm mới có sớm ra mắt không (B) Khi nào bộ phận thay thế sẽ được gửi đi (C) Thời gian bảo hành kéo dài bao lâu (D) Ai là người liên hệ về các đơn hàng tương lai",
+              "textVi": "Who to contact about future orders (A) Nó đến muộn hơn dự kiến. (B) Nó bị hỏng trong quá trình vận chuyển. (C) Cô ấy cần giúp đỡ để lắp ráp nó. (D) Cô ấy hài lòng với nó. 79. Người nói yêu cầu người nghe xác nhận điều gì? (A) Liệu sản phẩm mới có sớm ra mắt không (B) Khi nào bộ phận thay thế sẽ được gửi đi (C) Thời gian bảo hành kéo dài bao lâu (D) Ai là người liên hệ về các đơn hàng tương lai"
+            }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "groupId": "80-82",
+      "part": 4,
+      "audioUrl": "/audio/test1/E26-T01-80-82.mp3",
+      "transcriptEn": "The first agenda item for our board meeting is the annual sales report. We're all disappointed by the drop in our clothing sales. So I'm recommending that we start manufacturing some clothing locally. I hired a consultant to put together a list of locations we could use. He'll be at our next board meeting to explain the pros and cons of each.",
+      "transcriptVi": "",
+      "questions": [
+        {
+          "id": 80,
+          "question": "What type of product does the speaker's company make?",
+          "questionVi": "",
+          "options": [
+            {
+              "key": "A",
+              "text": "Furniture",
+              "textVi": ""
+            },
+            {
+              "key": "B",
+              "text": "Luggage",
+              "textVi": ""
+            },
+            {
+              "key": "C",
+              "text": "Bedding",
+              "textVi": ""
+            },
+            {
+              "key": "D",
+              "text": "Clothing",
+              "textVi": ""
+            }
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": 81,
+          "question": "What does the speaker recommend doing?",
+          "questionVi": "Người nói đề xuất làm điều gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Manufacturing some products locally",
+              "textVi": "Sản xuất một số sản phẩm tại địa phương"
+            },
+            {
+              "key": "B",
+              "text": "Offering free shipping",
+              "textVi": "Cung cấp dịch vụ giao hàng miễn phí"
+            },
+            {
+              "key": "C",
+              "text": "Participating in a trade show",
+              "textVi": "Tham gia một hội chợ triển lãm thương mại 25 82. What will happen at the next meeting? (A) A vote will take place. (B) A consultant will give a presentation. (C) Some contracts will be updated."
+            },
+            {
+              "key": "D",
+              "text": "Developing a new product line",
+              "textVi": "Safety procedures will be reviewed. (D) Phát triển một dòng sản phẩm mới"
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 82,
+          "question": "B Mục đầu tiên trong chương trình nghị sự cho cuộc họp hội đồng quản trị của chúng ta là báo cáo doanh số hàng năm. Tất cả chúng ta đều thất vọng vì doanh số bán quần áo sụt giảm. Vì vậy, tôi đề xuất chúng ta bắt đầu sản xuất một số mặt hàng quần áo tại địa phương. Tôi đã thuê một tư vấn viên để lập danh sách các địa điểm chúng ta có thể sử dụng. Anh ấy sẽ có mặt trong cuộc họp tiếp theo để giải thích ưu và nhược điểm của từng nơi. 80. Công ty của người nói sản xuất loại sản phẩm nào?",
+          "questionVi": "What will happen at the next meeting?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Nội thất",
+              "textVi": "A vote will take place."
+            },
+            {
+              "key": "B",
+              "text": "Hành lý/Van li",
+              "textVi": "A consultant will give a presentation."
+            },
+            {
+              "key": "C",
+              "text": "Đồ dùng phòng ngủ (chăn ga gối nệm)",
+              "textVi": "Some contracts will be updated."
+            },
+            {
+              "key": "D",
+              "text": "Quần áo 81. Người nói đề xuất làm điều gì? (A) Sản xuất một số sản phẩm tại địa phương (B) Cung cấp dịch vụ giao hàng miễn phí (C) Tham gia một hội chợ triển lãm thương mại 25 82. What will happen at the next meeting? (A) A vote will take place. (B) A consultant will give a presentation. (C) Some contracts will be updated. (D) Safety procedures will be reviewed. (D) Phát triển một dòng sản phẩm mới 82. Điều gì sẽ xảy ra tại cuộc họp tiếp theo? (A) Một cuộc bỏ phiếu sẽ diễn ra. (B) Một cố vấn sẽ trình bày. (C) Một số hợp đồng sẽ được cập nhật. (D) Các quy trình an toàn sẽ được xem xét lại.",
+              "textVi": "Safety procedures will be reviewed. (D) Phát triển một dòng sản phẩm mới 82. Điều gì sẽ xảy ra tại cuộc họp tiếp theo? (A) Một cuộc bỏ phiếu sẽ diễn ra. (B) Một cố vấn sẽ trình bày. (C) Một số hợp đồng sẽ được cập nhật. (D) Các quy trình an toàn sẽ được xem xét lại."
+            }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "groupId": "83-85",
+      "part": 4,
+      "audioUrl": "/audio/test1/E26-T01-83-85.mp3",
+      "transcriptEn": "Attention, passengers. All trains to Midway Station are delayed for track repairs. They expect to complete the repair within the hour. A bus will be departing for that destination in fifteen minutes. Also, a reminder that the station café opens at eight A.M., and there are food kiosks on platform one.",
+      "transcriptVi": "",
+      "questions": [
+        {
+          "id": 83,
+          "question": "What is the announcement mainly about?",
+          "questionVi": "Thông báo chủ yếu nói về điều gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A promotional event",
+              "textVi": "Một sự kiện quảng cáo"
+            },
+            {
+              "key": "B",
+              "text": "A vacation package",
+              "textVi": "Một gói kỳ nghỉ"
+            },
+            {
+              "key": "C",
+              "text": "A building renovation",
+              "textVi": "Một cuộc cải tạo tòa nhà"
+            },
+            {
+              "key": "D",
+              "text": "A travel delay",
+              "textVi": "Một sự trì hoãn chuyến đi"
+            }
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": 84,
+          "question": "Why does the speaker say, \"A bus will be departing for that destination in fifteen minutes\"?",
+          "questionVi": "Tại sao người nói lại nói \"Một chiếc xe buýt sẽ khởi hành đến điểm đến đó trong 15 phút nữa\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To suggest an alternative arrangement",
+              "textVi": "Để gợi ý một sự sắp xếp thay thế"
+            },
+            {
+              "key": "B",
+              "text": "To explain an extended wait time",
+              "textVi": "Để giải thích thời gian chờ kéo dài"
+            },
+            {
+              "key": "C",
+              "text": "To recommend changing the travel date",
+              "textVi": "Để khuyên nên thay đổi ngày đi"
+            },
+            {
+              "key": "D",
+              "text": "To inform customers about a new destination",
+              "textVi": "Để thông báo cho khách hàng về điểm đến mới"
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 85,
+          "question": "What does the speaker remind the listeners about?",
+          "questionVi": "Người nói nhắc nhở người nghe về điều gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "How to download a mobile application",
+              "textVi": "Cách tải xuống một ứng dụng di động"
+            },
+            {
+              "key": "B",
+              "text": "Where a waiting area is located 83. D 84. A 85. D Xin hành khách chú ý. Tất cả các đoàn tàu đến ga Midway đều bị hoãn để sửa chữa đường ray. Họ dự kiến sẽ hoàn thành việc sửa chữa trong vòng một giờ tới. Một chiếc xe buýt sẽ khởi hành đến điểm đến đó trong 15 phút nữa. Ngoài ra, xin nhắc lại rằng quán cà phê tại nhà ga mở cửa lúc 8 giờ sáng, và có các quầy thực phẩm tại sân ga số 1. 83. Thông báo chủ yếu nói về điều gì? (A) Một sự kiện quảng cáo (B) Một gói kỳ nghỉ",
+              "textVi": "Nơi đặt khu vực chờ"
+            },
+            {
+              "key": "C",
+              "text": "Một cuộc cải tạo tòa nhà",
+              "textVi": "Cách đặt vé 26 (C) How to reserve tickets"
+            },
+            {
+              "key": "D",
+              "text": "Một sự trì hoãn chuyến đi 84. Tại sao người nói lại nói \"Một chiếc xe buýt sẽ khởi hành đến điểm đến đó trong 15 phút nữa\"? (A) Để gợi ý một sự sắp xếp thay thế (B) Để giải thích thời gian chờ kéo dài (C) Để khuyên nên thay đổi ngày đi (D) Để thông báo cho khách hàng về điểm đến mới 85. Người nói nhắc nhở người nghe về điều gì? (A) Cách tải xuống một ứng dụng di động (B) Nơi đặt khu vực chờ (C) Cách đặt vé 26 (C) How to reserve tickets (D) Where to buy food (D) Nơi mua thức ăn",
+              "textVi": "Where to buy food (D) Nơi mua thức ăn"
+            }
+          ],
+          "correctAnswer": "D"
+        }
+      ]
+    },
+    {
+      "groupId": "86-88",
+      "part": 4,
+      "audioUrl": "/audio/test1/E26-T01-86-88.mp3",
+      "transcriptEn": "I'm calling about the work my design team's doing to update your company logo. I've just e-mailed two versions for you to review. Take your time to think about which one you'd like to choose. I'll be on vacation all next week, but if you call the office, my assistant will set up a meeting for when I get back.",
+      "transcriptVi": "",
+      "questions": [
+        {
+          "id": 86,
+          "question": "Where does the speaker most likely work?",
+          "questionVi": "Người nói có khả năng cao là làm việc ở đâu?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At a graphic design company",
+              "textVi": "Tại một công ty thiết kế đồ họa"
+            },
+            {
+              "key": "B",
+              "text": "At a law firm",
+              "textVi": "Tại một văn phòng luật"
+            },
+            {
+              "key": "C",
+              "text": "At a photography studio",
+              "textVi": "Tại một studio chụp ảnh"
+            },
+            {
+              "key": "D",
+              "text": "At a museum",
+              "textVi": "Tại một bảo tàng"
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 87,
+          "question": "What did the listener receive by e-mail?",
+          "questionVi": "Người nghe đã nhận được gì qua email?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A newsletter",
+              "textVi": "Một bản tin"
+            },
+            {
+              "key": "B",
+              "text": "Some images",
+              "textVi": "Một số hình ảnh"
+            },
+            {
+              "key": "C",
+              "text": "An invoice",
+              "textVi": "Một hóa đơn"
+            },
+            {
+              "key": "D",
+              "text": "Some contracts",
+              "textVi": "Một số hợp đồng"
+            }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": 88,
+          "question": "Why is the speaker unavailable next week?",
+          "questionVi": "Tại sao người nói không có mặt vào tuần tới?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She will be working at another branch.",
+              "textVi": "Cô ấy sẽ làm việc tại một chi nhánh khác."
+            },
+            {
+              "key": "B",
+              "text": "She will be with other clients.",
+              "textVi": "Cô ấy sẽ bận với những khách hàng khác."
+            },
+            {
+              "key": "C",
+              "text": "She will be on vacation.",
+              "textVi": "Cô ấy sẽ đi nghỉ mát."
+            },
+            {
+              "key": "D",
+              "text": "She will be at an industry conference.",
+              "textVi": "Cô ấy sẽ tham dự một hội nghị ngành. 27"
+            }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "groupId": "89-91",
+      "part": 4,
+      "audioUrl": "/audio/test1/E26-T01-89-91.mp3",
+      "transcriptEn": "I've scheduled this press conference to officially respond to your inquiries regarding fuel-efficient engines. We hired a firm to determine if this upgrade would be feasible for our trains. It reported that the upgrade would be economical only for trains less than five years old. All of ours are at least ten years old. If you're interested in more details, e-mail our media relations department to receive a summary of the findings.",
+      "transcriptVi": "",
+      "questions": [
+        {
+          "id": 89,
+          "question": "Who most likely are the listeners?",
+          "questionVi": "Người nghe có khả năng cao là ai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Investors",
+              "textVi": "Các nhà đầu tư"
+            },
+            {
+              "key": "B",
+              "text": "Government officials",
+              "textVi": "Các quan chức chính phủ"
+            },
+            {
+              "key": "C",
+              "text": "Engineers",
+              "textVi": "Các kỹ sư"
+            },
+            {
+              "key": "D",
+              "text": "Journalists",
+              "textVi": "Các nhà báo"
+            }
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": 90,
+          "question": "What does the speaker mean when she says, \"All of ours are at least ten years old\"?",
+          "questionVi": "Người nói có ý gì khi nói \"Tất cả của chúng tôi đều ít nhất mười năm tuổi\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "An event needs to be relocated.",
+              "textVi": "Một sự kiện cần được chuyển địa điểm."
+            },
+            {
+              "key": "B",
+              "text": "An upgrade is not feasible.",
+              "textVi": "Việc nâng cấp là không khả thi."
+            },
+            {
+              "key": "C",
+              "text": "A project team has a lot of experience.",
+              "textVi": "Nhóm dự án có rất nhiều kinh nghiệm."
+            },
+            {
+              "key": "D",
+              "text": "Some company policies are outdated.",
+              "textVi": "Một số chính sách của công ty đã lỗi thời."
+            }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": 91,
+          "question": "According to the speaker, what can be requested by e-mail?",
+          "questionVi": "Theo người nói, cái gì có thể được yêu cầu qua email?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Some presentation slides",
+              "textVi": "Một số trang thuyết trình"
+            },
+            {
+              "key": "B",
+              "text": "Some product samples",
+              "textVi": "Một số mẫu sản phẩm"
+            },
+            {
+              "key": "C",
+              "text": "A report summary",
+              "textVi": "Bản tóm tắt báo cáo"
+            },
+            {
+              "key": "D",
+              "text": "A discounted ticket",
+              "textVi": "Vé giảm giá 28"
+            }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "groupId": "92-94",
+      "part": 4,
+      "audioUrl": "/audio/test1/E26-T01-92-94.mp3",
+      "transcriptEn": "I want to explore the use of a more modernized payment system in our cosmetics stores. This system would allow any sales associate to take customer payments from a tablet anywhere in the store. The main complaint about shopping at our stores is waiting in long lines to pay. I've decided to conduct a trial run at our store in the Center City Mall.",
+      "transcriptVi": "",
+      "questions": [
+        {
+          "id": 92,
+          "question": "What does the speaker want to do?",
+          "questionVi": "Người nói muốn làm gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Increase online sales",
+              "textVi": "Tăng doanh số bán hàng trực tuyến"
+            },
+            {
+              "key": "B",
+              "text": "Upgrade a payment system",
+              "textVi": "Nâng cấp hệ thống thanh toán"
+            },
+            {
+              "key": "C",
+              "text": "Create a new product line",
+              "textVi": "Tạo ra một dòng sản phẩm mới"
+            },
+            {
+              "key": "D",
+              "text": "Add store locations",
+              "textVi": "Thêm các địa điểm cửa hàng"
+            }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": 93,
+          "question": "According to the speaker, what is the customers' main complaint?",
+          "questionVi": "Theo người nói, lời phàn nàn chính của khách hàng là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Long lines",
+              "textVi": "Xếp hàng dài"
+            },
+            {
+              "key": "B",
+              "text": "High prices",
+              "textVi": "Giá cao"
+            },
+            {
+              "key": "C",
+              "text": "Unavailable items",
+              "textVi": "Các món đồ không có sẵn"
+            },
+            {
+              "key": "D",
+              "text": "Unfriendly staff",
+              "textVi": "Nhân viên không thân thiện"
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 94,
+          "question": "Why does the speaker say, \"that's our busiest location\"?",
+          "questionVi": "Tại sao người nói lại nói \"đó là địa điểm bận rộn nhất của chúng tôi\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To request some feedback",
+              "textVi": "Để yêu cầu một số phản hồi"
+            },
+            {
+              "key": "B",
+              "text": "To compliment some staff",
+              "textVi": "Để khen ngợi một số nhân viên"
+            },
+            {
+              "key": "C",
+              "text": "To express frustration",
+              "textVi": "Để bày tỏ sự thất vọng"
+            },
+            {
+              "key": "D",
+              "text": "To justify a choice",
+              "textVi": "Để giải thích cho một sự lựa chọn 29"
+            }
+          ],
+          "correctAnswer": "D"
+        }
+      ]
+    },
+    {
+      "groupId": "95-97",
+      "part": 4,
+      "audioUrl": "/audio/test1/E26-T01-95-97.mp3",
+      "transcriptEn": "The downtown Reston Office Tower is completed. The most extraordinary feature of the building is its beautiful garden, located in the lobby. We interviewed the CEO of Barnum Financial Services about its new offices. He said he and his team are excited to move in in January. A recording of the full interview is available on our Web site.",
+      "transcriptVi": "",
+      "questions": [
+        {
+          "id": 95,
+          "question": "According to the speaker, what is special about the Reston Office Tower?",
+          "questionVi": "Theo người nói, Tháp Văn phòng Reston có điểm gì đặc biệt?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It features an indoor garden.",
+              "textVi": "Nó có một khu vườn trong nhà."
+            },
+            {
+              "key": "B",
+              "text": "It exhibits work from local artists.",
+              "textVi": "Nó trưng bày tác phẩm từ các nghệ sĩ địa phương."
+            },
+            {
+              "key": "C",
+              "text": "It runs on solar power.",
+              "textVi": "Nó chạy bằng năng lượng mặt trời."
+            },
+            {
+              "key": "D",
+              "text": "It has won many awards.",
+              "textVi": "Nó đã giành được nhiều giải thưởng."
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 96,
+          "question": "Look at the graphic. Which floors will be occupied in January?",
+          "questionVi": "Nhìn vào đồ họa. Những tầng nào sẽ được sử dụng vào tháng Giêng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Floors 1-5",
+              "textVi": "Tầng 1-5"
+            },
+            {
+              "key": "B",
+              "text": "Floors 6-10",
+              "textVi": "Tầng 6-10"
+            },
+            {
+              "key": "C",
+              "text": "Floors 11-14",
+              "textVi": "Tầng 11-14"
+            },
+            {
+              "key": "D",
+              "text": "Floors 15-17",
+              "textVi": "Tầng 15-17"
+            }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 97,
+          "question": "What does the speaker say is available on a Web site?",
+          "questionVi": "Người nói nói rằng cái gì có sẵn trên một trang web?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Some photographs",
+              "textVi": "Một số bức ảnh"
+            },
+            {
+              "key": "B",
+              "text": "An event schedule",
+              "textVi": "Lịch trình sự kiện"
+            },
+            {
+              "key": "C",
+              "text": "A floor layout",
+              "textVi": "Sơ đồ mặt bằng tầng"
+            },
+            {
+              "key": "D",
+              "text": "A recorded interview",
+              "textVi": "Một cuộc phỏng vấn được ghi âm 30"
+            }
+          ],
+          "correctAnswer": "D"
+        }
+      ],
+      "imageUrl": "/images/test1/group_95-97.png"
+    },
+    {
+      "groupId": "98-100",
+      "part": 4,
+      "audioUrl": "/audio/test1/E26-T01-98-100.mp3",
+      "transcriptEn": "Thank you for attending this meeting for prospective investors. ZZ Mining has been planning to expand our operations by opening an additional silver mine. The site with 390 grams per ton has a larger deposit, so that's where we'll build the new mine. Our next step is to apply for the necessary permits. We'll do that next week.",
+      "transcriptVi": "",
+      "questions": [
+        {
+          "id": 98,
+          "question": "Who most likely are the listeners?",
+          "questionVi": "Người nghe có khả năng cao là ai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Safety engineers",
+              "textVi": "Các kỹ sư an toàn"
+            },
+            {
+              "key": "B",
+              "text": "Laboratory technicians",
+              "textVi": "Các kỹ thuật viên phòng thí nghiệm"
+            },
+            {
+              "key": "C",
+              "text": "Legal consultants",
+              "textVi": "Các tư vấn pháp lý"
+            },
+            {
+              "key": "D",
+              "text": "Business investors",
+              "textVi": "Các nhà đầu tư kinh doanh"
+            }
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": 99,
+          "question": "Look at the graphic. Where will a new mine be built?",
+          "questionVi": "Nhìn vào đồ họa. Một mỏ mới sẽ được xây dựng ở đâu?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At site 1",
+              "textVi": "Tại vị trí 1"
+            },
+            {
+              "key": "B",
+              "text": "At site 2",
+              "textVi": "Tại vị trí 2"
+            },
+            {
+              "key": "C",
+              "text": "At site 3",
+              "textVi": "Tại vị trí 3"
+            },
+            {
+              "key": "D",
+              "text": "At site 4",
+              "textVi": "Tại vị trí 4"
+            }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 100,
+          "question": "What does the speaker say is the next step?",
+          "questionVi": "Người nói nói bước tiếp theo là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Applying for permits",
+              "textVi": "Đệ đơn xin giấy phép"
+            },
+            {
+              "key": "B",
+              "text": "Installing equipment",
+              "textVi": "Lắp đặt thiết bị"
+            },
+            {
+              "key": "C",
+              "text": "Hiring additional staff",
+              "textVi": "Thuê thêm nhân viên"
+            },
+            {
+              "key": "D",
+              "text": "Updating a manual",
+              "textVi": "Cập nhật một bản hướng dẫn 31"
+            }
+          ],
+          "correctAnswer": "A"
+        }
+      ],
+      "imageUrl": "/images/test1/group_98-100.png"
+    }
+  ]
+}
